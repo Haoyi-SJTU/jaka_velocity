@@ -1,5 +1,8 @@
 # JAKA机械臂速度控制接口
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)
+
 ## 说明
 
 基于ROS消息机制，监听发布的速度信号，将之转换为关节转角控制量，调用JAKA机械臂的伺服控制接口完成机械臂速度控制。从而实现从速度控制到位移控制的转换。
