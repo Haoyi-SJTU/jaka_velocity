@@ -1,6 +1,7 @@
 # JAKA机械臂速度控制接口
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![ROS - Noetic](https://img.shields.io/badge/ROS-Noetic-orange)
 ![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)
 
 ## 说明
